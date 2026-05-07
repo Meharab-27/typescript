@@ -58,7 +58,7 @@ You must check before using it:
 let value: unknown = 42;
 
 if (typeof value === "string") {
-  console.log(value.toUpperCase()); // Safe ✔
+  console.log(value.toUpperCase()); // Safe 
 }
 ```
 ## What is Type Narrowing?
